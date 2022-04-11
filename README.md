@@ -1,4 +1,4 @@
-# CartWithTests
+# JestTests
 
 #### TypeScript + jest
 
